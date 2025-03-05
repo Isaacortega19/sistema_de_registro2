@@ -6,3 +6,4 @@ estado del proyecto: en contrucción
 para ejecutar el sistema debes colocar:
 
 ```  npm install react ```
+sistema de registro modificado
